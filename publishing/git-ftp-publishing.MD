@@ -49,3 +49,5 @@ git ftp push
 **NOTE**
 
 1.  If you are using msysgit. After push your file to FTP server & your file/directory name is prefixed with a `#` symbol then try to update to newest version of msysgit.
+
+Author: Hung Doan
