@@ -1,0 +1,2 @@
+# .blog
+RIMS Technical Blog
